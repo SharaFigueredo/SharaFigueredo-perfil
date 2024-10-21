@@ -1,4 +1,4 @@
-## Hello! My name is André Diniz and welcome to my profile! :man_technologist:
+## Hello! My name is Shara Batista and welcome to my profile! :man_technologist:
 
 - 📈 I love discovering new knowledge!
 - 📚 Currently studying Java, JavaScript, HTML, and CSS, in preparation for a career transition.
